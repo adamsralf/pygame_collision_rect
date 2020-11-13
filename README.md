@@ -1,2 +1,2 @@
 # pygame_collision_rect
- A short "how to check a collision of rectangles" with PyGame
+ A short example of how to detect an collision of spritesusing rectangles with PyGame
